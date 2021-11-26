@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ShopToolsExample</string>
+    <string name="logo_description">Логотип магазина инструмента</string>
+    <string name="logo_description_rechartools">Лого раздела. Аккумуляторный инструмент</string>
+    <string-array name="list_tools">
+        <item>Аккумуляторный инструмент</item>
+        <item>Электроинструмент</item>
+        <item>Садовая техника</item>
+        <item>Генераторы</item>
+        <item>Инструмент ручной и оснастка</item>
+        <item>Измерительные приборы</item>
+        <item>Моечное и уборочное оборудование</item>
+        <item>Сварочное оборудование</item>
+        <item>Станки</item>
+        <item>Тепловое оборудование</item>
+        <item>Технические фены</item>
+        <item>Клеевые пистолеты</item>
+    </string-array>
+
+    <string-array name="list_rechar_tools">
+        <item>Аккумуляторные болгарки (УШМ)</item>
+        <item>Аккумуляторные дисковые пилы</item>
+        <item>Аккумуляторные мультитулы</item>
+    </string-array>
+
+    <string name="rechar_tool_bolgarki_title">Аккумуляторные болгарки (УШМ)</string>
+    <string name="rechar_tool_bolgarki_info">Аккумуляторная углошлифовальная машина Metabo W18 LTX 125 + 3.5 Ач LiHD + ЗУ ASC 55 T0333 подходит для работы в стесненных условиях или над головой. Благодаря системе Metabo Quick замена шлифовальных кругов производится без вспомогательных инструментов.
+Долговечность. Защита от перегрузок предохраняет двигатель от перегрева и продлевает срок его службы.</string>
+
+    <string name="rechar_tool_diskovye_pily_title">Аккумуляторные дисковые пилы</string>
+    <string name="rechar_tool_diskovye_pily_info">Пила дисковая аккумуляторная DEWALT DCS 570 N , 18.0 В XR бесщеточная дисковая пила, 5500 об/мин, диск 184х16 мм, пропил 64 мм, без батарей и ЗУ</string>
+
+    <string name="rechar_tool_multituly_title">Аккумуляторные мультитулы</string>
+    <string name="rechar_tool_multituly_info">Мультитул DeWalt DCS 355N 18.0 В XR , 300 Вт, 0-20000 колебаний в минуту, замена насадок без использования инструмента, Li-Ion, без аккумуляторов и зарядного устройства, 29 насадок, 1.06 кг</string>
+
+    <string name="image_tool">Изображение инструмента</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="default_login">клиент</string>
+    <string name="default_password">password</string>
+    <string name="order">Логин: %s\n, пароль: %s\n, напиток: %s\n, вид: %s\n</string>
+
+    <string name="app_name">Caffe Order</string>
+    <string name="logo_desc">Логотип</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="hint_name">Введите ваше имя:</string>
+    <string name="err_empty_name">Введите ваше имя</string>
+    <string name="hint_password">Введите ваш пароль:</string>
+    <string name="err_empty_password">Введите ваш пароль</string>
+    <string name="btn_create_order">Заказать</string>
+    <string name="title_order">Привет, %s! Что будете заказывать?</string>
+    <string name="radio_btn_tea">Чай</string>
+    <string name="radio_btn_coffee">Кофе</string>
+    <string name="text_addition">Что добавить в ваш %s?</string>
+    <string name="checkbox_milk">Молоко</string>
+    <string name="checkbox_sugar">Сахар</string>
+    <string name="checkbox_lemon">Лимон</string>
+    <string name="text_drink">Выберите напиток:</string>
+
+    <string-array name="options_of_coffee">
+        <item>Американно</item>
+        <item>Экспрессо</item>
+        <item>Лате</item>
+    </string-array>
+
+    <string-array name="options_of_tea">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+    </string-array>
+
+    <string name="btn_send_order">Оформить заказ</string>
+    <string name="additions">Добавки: </string>
+</resources>

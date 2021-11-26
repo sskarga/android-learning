@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Угадай знаменитость.</string>
+    <string name="foto_derscription">Фотография актера</string>
+    <string name="answer_is_right">Ответ верен</string>
+    <string name="answer_is_wrong">Ответ неправльный</string>
+    <string name="question">Тест: Угадай знаменитость?</string>
+    <string name="btn_dialog_ok">Следующий вопрос</string>
+</resources>

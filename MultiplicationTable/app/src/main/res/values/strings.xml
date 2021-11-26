@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Multiplication Table</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnStart">Старт</string>
+    <string name="btnAbout">О приложении</string>
+    <string name="btnExit">Выход</string>
+    <string name="title">Title</string>
+    <string name="titleDefault">Таблица умножения</string>
+    <string name="titleAbout">О программе</string>
+    <string name="titleTesting">Тестирование</string>
+    <string name="textScores">Очки %d из %d</string>
+    <string name="textTimeLeft">Время 00:%02d</string>
+    <string name="titleResult">Результаты</string>
+    <string name="resultReportCountAns">%d из %d</string>
+    <string name="resultReportTitle">Вы набрали</string>
+    <string name="resultReportTextRightAns">правильных ответов</string>
+    <string name="btnResultReportToMainMenu">На главную</string>
+    <string name="aboutDesc">Тестирование на знание таблицы умножения</string>
+    <string name="ok">OK</string>
+    <string name="version">Version 0.1</string>
+</resources>
